@@ -4,7 +4,7 @@ The literature includes some traditional methods for term extraction, such as C-
 
 # Basic code 1
 The basement codes has two parts.
-One is using the so called emantic relatedness, which is based on calculation of vector semantics.It could be found in branch master.
+One is using the so called semantic relatedness, which is based on calculation of vector semantics.It could be found in branch master.
 This is extracted from the codes used in the paper "SemRe-Rank: Improving Automatic Term Extraction By Incorporating
 Semantic Relatedness With Personalised PageRank"
 
