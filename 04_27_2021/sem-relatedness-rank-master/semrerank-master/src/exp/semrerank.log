@@ -1,0 +1,21 @@
+INFO:gensim.utils:loading Word2Vec object from /home/zz/Work/data/semrerank/embeddings/em_ttcm-uni-sg-100-w3-m1.model
+INFO:gensim.utils:loading wv recursively from /home/zz/Work/data/semrerank/embeddings/em_ttcm-uni-sg-100-w3-m1.model.wv.* with mmap=None
+INFO:gensim.utils:setting ignored attribute syn0norm to None
+INFO:gensim.utils:setting ignored attribute cum_table to None
+INFO:gensim.utils:loaded /home/zz/Work/data/semrerank/embeddings/em_ttcm-uni-sg-100-w3-m1.model
+INFO:graph.semrerank_doc_base:Loading extracted terms by JATE...
+INFO:graph.semrerank_doc_base:Loading extracted terms by JATE...
+INFO:gensim.utils:loading Word2Vec object from /home/zz/Work/data/semrerank/embeddings/em_ttcm-uni-sg-100-w3-m1.model
+INFO:gensim.utils:loading wv recursively from /home/zz/Work/data/semrerank/embeddings/em_ttcm-uni-sg-100-w3-m1.model.wv.* with mmap=None
+INFO:gensim.utils:setting ignored attribute syn0norm to None
+INFO:gensim.utils:setting ignored attribute cum_table to None
+INFO:gensim.utils:loaded /home/zz/Work/data/semrerank/embeddings/em_ttcm-uni-sg-100-w3-m1.model
+INFO:graph.semrerank_doc_base:Loading extracted terms by JATE...
+INFO:graph.semrerank_doc_base:Loading extracted terms by JATE...
+INFO:gensim.utils:loading Word2Vec object from /home/zz/Work/data/semrerank/embeddings/em_ttcm-uni-sg-100-w3-m1.model
+INFO:gensim.utils:loading wv recursively from /home/zz/Work/data/semrerank/embeddings/em_ttcm-uni-sg-100-w3-m1.model.wv.* with mmap=None
+INFO:gensim.utils:setting ignored attribute syn0norm to None
+INFO:gensim.utils:setting ignored attribute cum_table to None
+INFO:gensim.utils:loaded /home/zz/Work/data/semrerank/embeddings/em_ttcm-uni-sg-100-w3-m1.model
+INFO:graph.semrerank_doc_base:Loading extracted terms by JATE...
+INFO:graph.semrerank_doc_base:Loading extracted terms by JATE...
