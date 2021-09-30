@@ -9,5 +9,5 @@ This is extracted from the codes used in the paper "SemRe-Rank: Improving Automa
 Semantic Relatedness With Personalised PageRank"
 
 The other is using the pattern matching method. It could be found in branch master2.
-The idea is use the POS tagging, then we think about some specific patterns for the pattern matching tasks.
+The idea is to use the POS taggings as the pattern to match the qualified terms.
 The pattern match algorithm, KMP algorithm is used. 
